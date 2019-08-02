@@ -1,6 +1,6 @@
 # DeepeFy - Clone Interface Pipefy
 
-## Techs 😆👩‍💻
+## Techs
 
 1. React
 2. React DND
@@ -10,10 +10,12 @@
 
 ## Preview
 
-➡️➡️➡️➡️ [ONLINE PREVIEW](deepefy.surge.sh)
+➡️ [ONLINE PREVIEW](http://deepefy.surge.sh)
 
-## Running
+## Instalation
 
 `yarn`
+
+## Running
 
 `yarn start`
