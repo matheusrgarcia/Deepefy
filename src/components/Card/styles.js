@@ -45,24 +45,6 @@ export const Container = styled.div`
         opacity: 0;
       }
     `}
-
-  ${props =>
-    props.isDropping &&
-    css`
-      border: 2px dashed rgba(0, 0, 0, 0.2);
-      padding-top: 31px;
-      border-radius: 0;
-      background: transparent;
-      box-shadow: none;
-      cursos: grabbing;
-
-      p,
-      img,
-      span,
-      header {
-        opacity: 0;
-      }
-    `}
 `;
 
 export const Label = styled.span`
