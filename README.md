@@ -5,6 +5,8 @@
 1. React
 2. React DND
 3. React Hooks 
+4. Adorable Avatars
+5. Flexbox
 
 ## Preview
 
