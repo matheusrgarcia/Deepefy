@@ -19,3 +19,8 @@
 ## Running
 
 `yarn start`
+
+## TODO
+
+1. Arrastar card para lista vazia;
+2. Mostrar lugar que um card sendo arrastado vai ficar.
